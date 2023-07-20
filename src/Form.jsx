@@ -17,7 +17,7 @@ export default function Form() {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        console.log("This is the info that was just submitted", form);
+        // console.log("This is the info that was just submitted", form);
     };
 
   return (
